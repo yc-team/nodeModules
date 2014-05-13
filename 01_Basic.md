@@ -20,3 +20,11 @@
 
 * [npm](https://www.npmjs.org/package/html-md)
 * [github](https://github.com/neocotic/html.md)
+
+
+#### html-minifier
+
+> HTML minifier with lint-like capabilities
+
+* [npm](https://www.npmjs.org/package/html-minifier)
+* [github](https://github.com/kangax/html-minifier)
