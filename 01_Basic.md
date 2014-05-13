@@ -36,3 +36,11 @@
 
 * [npm](https://www.npmjs.org/package/marked)
 * [github](https://github.com/chjj/marked)
+
+
+#### rimraf
+
+> A deep deletion module for node like 'rm -rf'
+
+* [npm](https://www.npmjs.org/package/rimraf)
+* [github](https://github.com/isaacs/rimraf)
