@@ -44,3 +44,14 @@
 
 * [npm](https://www.npmjs.org/package/rimraf)
 * [github](https://github.com/isaacs/rimraf)
+
+
+#### colors
+
+> get colors in your node.js console like what
+
+* [npm](https://www.npmjs.org/package/colors)
+* [github](https://github.com/Marak/colors.js)
+
+
+
