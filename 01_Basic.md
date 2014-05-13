@@ -28,3 +28,11 @@
 
 * [npm](https://www.npmjs.org/package/html-minifier)
 * [github](https://github.com/kangax/html-minifier)
+
+
+#### marked
+
+> A markdown parser built for speed
+
+* [npm](https://www.npmjs.org/package/marked)
+* [github](https://github.com/chjj/marked)
