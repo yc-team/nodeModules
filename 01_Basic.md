@@ -14,6 +14,15 @@
 * [github](https://github.com/eleith/emailjs)
 
 
+
+#### Nodemailer
+
+> Send e-mails with Node.JS - easy as cake
+
+* [github](https://github.com/andris9/Nodemailer)
+
+
+
 #### html-md
 
 > js lib for converting HTML in to valid Markdown
