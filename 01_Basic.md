@@ -63,4 +63,10 @@
 * [github](https://github.com/Marak/colors.js)
 
 
+#### jx-xss
+
+> Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
+
+* [npm](https://www.npmjs.org/package/xss)
+* [github](https://github.com/leizongmin/js-xss)
 
