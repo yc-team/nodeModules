@@ -70,3 +70,9 @@
 * [npm](https://www.npmjs.org/package/xss)
 * [github](https://github.com/leizongmin/js-xss)
 
+
+#### node-canvas
+
+> Node canvas is a Cairo backed Canvas implementation for NodeJS
+
+* [github](https://github.com/LearnBoost/node-canvas)
