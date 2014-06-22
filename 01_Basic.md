@@ -75,4 +75,5 @@
 
 > Node canvas is a Cairo backed Canvas implementation for NodeJS
 
+* [npm](https://www.npmjs.org/package/canvas)
 * [github](https://github.com/LearnBoost/node-canvas)
