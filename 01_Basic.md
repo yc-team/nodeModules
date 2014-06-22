@@ -87,4 +87,9 @@
 * [github](https://github.com/isaacs/node-supervisor)
 
 
+#### nodemon
 
+> Simple monitor script for use during development of a node.js app.
+
+* [npm](https://www.npmjs.org/package/nodemon)
+* [github](https://github.com/remy/nodemon)
