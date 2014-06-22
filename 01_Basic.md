@@ -93,3 +93,11 @@
 
 * [npm](https://www.npmjs.org/package/nodemon)
 * [github](https://github.com/remy/nodemon)
+
+
+#### node-dev
+
+> Zero-conf Node.js reloading
+
+* [npm](https://www.npmjs.org/package/node-dev)
+* [github](https://github.com/fgnass/node-dev)
