@@ -77,3 +77,14 @@
 
 * [npm](https://www.npmjs.org/package/canvas)
 * [github](https://github.com/LearnBoost/node-canvas)
+
+
+#### supervisor
+
+> A little supervisor script for nodejs
+
+* [npm](https://www.npmjs.org/package/supervisor)
+* [github](https://github.com/isaacs/node-supervisor)
+
+
+
