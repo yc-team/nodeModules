@@ -101,3 +101,12 @@
 
 * [npm](https://www.npmjs.org/package/node-dev)
 * [github](https://github.com/fgnass/node-dev)
+
+
+#### momentjs [i18n]
+
+> Parse, validate, manipulate, and display dates in javascript.
+
+* [npm](https://www.npmjs.org/package/moment)
+* [github](https://github.com/moment/moment)
+
