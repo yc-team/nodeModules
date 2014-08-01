@@ -6,6 +6,15 @@
 * [github](https://github.com/isaacs/node-semver) 
 
 
+#### iconv-lite
+
+> Convert character encodings in pure javascript
+
+* [npm](https://www.npmjs.org/package/iconv-lite)
+* [github](https://github.com/ashtuchkin/iconv-lite)
+
+
+
 #### emailjs
 
 > send text/html emails and attachments
