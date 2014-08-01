@@ -110,3 +110,11 @@
 * [npm](https://www.npmjs.org/package/moment)
 * [github](https://github.com/moment/moment)
 
+
+#### node-querystring [qs]
+
+> querystring parser for node and the browser - supporting nesting (used by Express, Connect, etc)
+
+* [npm](https://www.npmjs.org/package/qs)
+* [github](https://github.com/visionmedia/node-querystring)
+
