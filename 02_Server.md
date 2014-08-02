@@ -15,3 +15,12 @@
 * [github](https://github.com/soldair/node-qrcode) 
 
 
+
+#### qr-image
+
+> Yet another QR code generator
+
+* [npm](https://www.npmjs.org/package/qr-image)
+* [github](https://github.com/alexeyten/qr-image)
+
+
