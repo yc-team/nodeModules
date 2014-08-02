@@ -24,3 +24,11 @@
 * [github](https://github.com/alexeyten/qr-image)
 
 
+
+#### node-cache
+
+> A simple in-memory cache for nodejs (or node.js or node, or whatever you call it)
+
+* [npm](https://www.npmjs.org/package/memory-cache)
+* [github](https://github.com/ptarjan/node-cache)
+
