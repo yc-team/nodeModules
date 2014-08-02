@@ -29,6 +29,8 @@
 
 > A simple in-memory cache for nodejs (or node.js or node, or whatever you call it)
 
+注释：就是一个内部{}，不存储其他媒介
+
 * [npm](https://www.npmjs.org/package/memory-cache)
 * [github](https://github.com/ptarjan/node-cache)
 
