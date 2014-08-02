@@ -7,4 +7,11 @@
 
 
 
+#### node-qrcode
+
+> node js server side qr code generator utilizing node-canvas
+
+* [npm](https://www.npmjs.org/package/qrcode)
+* [github](https://github.com/soldair/node-qrcode) 
+
 
