@@ -17,6 +17,16 @@
 
 
 
+#### q
+
+> A tool for making and composing asynchronous promises in JavaScript 
+
+* [npm](https://www.npmjs.org/package/q)
+* [github](https://github.com/kriskowal/q)
+
+
+
+
 #### lodash
 
 > A utility library delivering consistency, customization, performance, & extras.
