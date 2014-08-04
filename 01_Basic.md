@@ -88,6 +88,18 @@
 * [github](https://github.com/kangax/html-minifier)
 
 
+
+#### uglify-js
+
+> JavaScript parser, mangler/compressor and beautifier toolkit
+
+* [npm](https://www.npmjs.org/package/uglify-js)
+* [github](https://github.com/mishoo/UglifyJS2.git)
+
+
+
+
+
 #### marked
 
 > A markdown parser built for speed
