@@ -7,6 +7,16 @@
 
 
 
+#### async
+
+> Async utilities for node and the browser
+
+* [npm](https://www.npmjs.org/package/async)
+* [github](https://github.com/caolan/async)
+
+
+
+
 #### lodash
 
 > A utility library delivering consistency, customization, performance, & extras.
