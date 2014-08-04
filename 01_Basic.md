@@ -27,6 +27,16 @@
 
 
 
+#### optimist
+
+> Light-weight option parsing with an argv hash. No optstrings attached.
+
+* [npm](https://www.npmjs.org/package/optimist)
+* [github](http://github.com/substack/node-optimist.git)
+
+
+
+
 #### lodash
 
 > A utility library delivering consistency, customization, performance, & extras.
