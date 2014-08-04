@@ -7,6 +7,15 @@
 
 
 
+#### ejs
+
+> Embedded JavaScript templates
+
+* [npm](https://www.npmjs.org/package/ejs)
+* [github](https://github.com/visionmedia/ejs)
+
+
+
 
 
 #### request
