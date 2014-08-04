@@ -72,7 +72,7 @@
 * [github](https://github.com/Marak/colors.js)
 
 
-#### jx-xss
+#### js-xss
 
 > Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 
