@@ -1,3 +1,14 @@
+#### jade
+
+> Jade - robust, elegant, feature rich template engine for nodejs
+
+* [npm](https://www.npmjs.org/package/jade)
+* [github](https://github.com/visionmedia/jade)
+
+
+
+
+
 #### request
 
 > Simplified HTTP request client.
