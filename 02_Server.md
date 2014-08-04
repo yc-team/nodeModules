@@ -1,3 +1,15 @@
+#### request
+
+> Simplified HTTP request client.
+
+* [npm](https://www.npmjs.org/package/request)
+* [github](https://github.com/mikeal/request.git)
+
+
+
+
+
+
 #### redis
 
 > redis client for node
