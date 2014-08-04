@@ -6,6 +6,16 @@
 * [github](https://github.com/isaacs/node-semver) 
 
 
+
+#### lodash
+
+> A utility library delivering consistency, customization, performance, & extras.
+
+* [npm](https://www.npmjs.org/package/lodash)
+* [github](https://github.com/lodash/lodash)
+
+
+
 #### iconv-lite
 
 > Convert character encodings in pure javascript
