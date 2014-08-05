@@ -172,6 +172,14 @@
 * [github](https://github.com/moment/moment)
 
 
+#### i18n-node
+
+> Lightweight simple translation module for node.js / express.js with dynamic json storage. Uses common __('...') syntax in app and templates.
+
+* [npm](https://www.npmjs.org/package/i18n)
+* [github](https://github.com/mashpie/i18n-node#list-of-configuration-options)
+
+
 #### node-querystring [qs]
 
 > querystring parser for node and the browser - supporting nesting (used by Express, Connect, etc)
