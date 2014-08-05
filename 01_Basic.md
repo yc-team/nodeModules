@@ -125,6 +125,16 @@
 * [github](https://github.com/isaacs/rimraf)
 
 
+
+#### fs-extra
+
+> fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.
+
+* [npm](https://www.npmjs.org/package/fs-extra)
+* [github](https://github.com/jprichardson/node-fs-extra)
+
+
+
 #### colors
 
 > get colors in your node.js console like what
