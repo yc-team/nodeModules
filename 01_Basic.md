@@ -36,6 +36,15 @@
 
 
 
+#### minimist
+
+> parse argument options
+
+* [npm](https://www.npmjs.org/package/minimist)
+* [github](https://github.com/substack/minimist)
+
+
+
 
 #### lodash
 
