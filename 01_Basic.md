@@ -217,3 +217,12 @@
 * [npm](https://www.npmjs.org/package/qs)
 * [github](https://github.com/visionmedia/node-querystring)
 
+
+
+
+#### he
+
+> A robust HTML entity encoder/decoder written in JavaScript. 
+
+* [npm](https://www.npmjs.org/package/he)
+* [github](https://github.com/mathiasbynens/he)
