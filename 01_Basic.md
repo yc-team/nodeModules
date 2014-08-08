@@ -46,6 +46,17 @@
 
 
 
+#### jsonfile
+
+> Easily read/write JSON files.
+
+* [npm](https://www.npmjs.org/package/jsonfile)
+* [github](https://github.com/jprichardson/node-jsonfile)
+
+
+
+
+
 #### lodash
 
 > A utility library delivering consistency, customization, performance, & extras.
