@@ -7,7 +7,7 @@ exports = module.exports = ...
 ```
 
 
-官方对于module.exports的说明：
+#### 官方对于module.exports的说明：
 
 ```
 The module.exports object is created by the Module system. 
@@ -35,7 +35,7 @@ var a = require('./a');
 
 
 
-当我们用在属性上的时候：
+#### 当我们用在属性上的时候：
 
 ```
 //a.js
@@ -57,7 +57,7 @@ console.log(a); //{ job: 'fe', name: [Function] }
 
 
 
-其实开始的时候：
+#### 其实开始的时候：
 
 ```
 module.exports = exports
@@ -78,7 +78,7 @@ module.exports = exports
 
 
 
-如果同时定义了module.exports和exports：
+#### 如果同时定义了module.exports和exports：
 
 ```
 //a.js
@@ -99,7 +99,9 @@ console.log(a); //[Function: test]
 
 > 上面的情况,exports指向了一个，而module.exports指向另一个，看到b里面还是module.exports定义的
 
-建议：
+
+
+#### 建议：
 
 * 默认情况下,module.exports是一个{}
 * 如果只是添加方法或者属性的化，只操作exports.****
