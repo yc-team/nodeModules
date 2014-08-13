@@ -37,6 +37,8 @@ var a = require('./a');
 
 #### 当我们用在属性上的时候：
 
+* 不一样的属性
+
 ```
 //a.js
 module.exports.job = "fe";
@@ -51,6 +53,39 @@ exports.name = function(){
 var a = require('./a');
 console.log(a); //{ job: 'fe', name: [Function] }
 ```
+
+* 一样的属性
+
+1、module.exports在前：
+
+```
+//a.js
+module.exports.job = "fe";
+
+exports.job = "pd";
+```
+
+```
+//b.js
+var a = require('./a');
+console.log(a); //{ job: 'pd' }
+```
+
+2、exports在前：
+
+```
+//a.js
+exports.job = "pd";
+
+module.exports.job = "fe";
+```
+
+```
+//b.js
+var a = require('./a');
+console.log(a); //{ job: 'fe' }
+```
+
 
 > 注释：这个时候，最好还是采用exports.props，节省字符而且避免歧义。
 
