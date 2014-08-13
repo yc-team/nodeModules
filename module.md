@@ -7,7 +7,7 @@ exports = module.exports = ...
 ```
 
 
-#### 官方对于module.exports的说明：
+#### [官方](http://nodejs.org/docs/latest/api/modules.html#modules_module_exports)对于module.exports的说明：
 
 ```
 The module.exports object is created by the Module system. 
