@@ -20,6 +20,7 @@ To do this assign the desired export object to module.exports
 示例文件1：
 
 ```
+//a.js
 var EventEmitter = require('events').EventEmitter;
 
 module.exports = new EventEmitter();
@@ -28,6 +29,7 @@ module.exports = new EventEmitter();
 引用文件2：
 
 ```
+//b.js
 var a = require('./a');
 ```
 
@@ -63,11 +65,13 @@ module.exports = exports
 
 当模块被require的时候，node用c++实现了包裹，会变成：
 
+```
 (function (exports, require, module, __filename, __dirname) {
 	
 	//...
 
 });
+```
 
 而且require方法返回的是module.exports对象的指向。
 
