@@ -11,7 +11,7 @@ exports = module.exports = ...
 
 ```
 The module.exports object is created by the Module system. 
-Sometimes this is not acceptable; many want their module to be an instance of some **class**. 
+Sometimes this is not acceptable; many want their module to be an instance of some `class`. 
 To do this assign the desired export object to module.exports
 ```
 
