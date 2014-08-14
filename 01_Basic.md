@@ -220,6 +220,17 @@
 
 
 
+#### gm
+
+> GraphicsMagick for node
+
+install GraphicsMagick or ImageMagick
+
+* [npm](https://www.npmjs.org/package/gm)
+* [github](https://github.com/aheckmann/gm)
+
+
+
 #### he
 
 > A robust HTML entity encoder/decoder written in JavaScript. 
